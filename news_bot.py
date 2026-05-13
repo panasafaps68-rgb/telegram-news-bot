@@ -1,6 +1,6 @@
 import os
 
-OPENAI_API_KEY = os.environ["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"]
+OPENAI_API_KEY = os.environ["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"]
 TELEGRAM_BOT_TOKEN = os.environ["8403970315:AAHN-OVWvvsCsWghIIO4yos-txyIIMniEW8"]
 TELEGRAM_CHAT_ID = os.environ["8066676686"]
 
